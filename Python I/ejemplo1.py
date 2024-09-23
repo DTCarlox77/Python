@@ -10,3 +10,5 @@ else:
 Este es un comentario de 
 párrafo en Python
 """
+# strings, int, float, bool
+# &&, ||, and, or
